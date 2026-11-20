@@ -74,6 +74,10 @@ This project is intended for local/personal use or evaluation rather than public
 
 No license specified.
 
+## Deployed Live
+
+https://vouyertrip.streamlit.app/
+
 ## Author
 
 Krish Gupta
